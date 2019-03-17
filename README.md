@@ -12,4 +12,5 @@ projects from the udacity data science nano degree program
 07. Titanic survival with decision trees
 08. Spam filter with Naive Bayes
 09. Tuning the SVMs
-10. 
+10. Bagging, Random Forest, AdaBoost - Spam filter
+11. 
