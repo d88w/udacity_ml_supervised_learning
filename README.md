@@ -3,14 +3,14 @@
 Data Science / Machine Learning 
 projects from the udacity data science nano degree program
 
-01. Linear regression from Sklearn
-02. Multi-variable linear regression
-03. Polynomial regression
+01. Linear Regression from Sklearn
+02. Multi-variable Linear Regression
+03. Polynomial Regression
 04. Regularization with Lasso
-05. Feature scaling
-06. Decision trees
-07. Titanic survival with decision trees
+05. Feature Scaling
+06. Decision Trees
+07. Titanic survival with Decision Trees
 08. Spam filter with Naive Bayes
-09. Tuning the SVMs
+09. Tuning the Support Vector Machine (SVM)
 10. Bagging, Random Forest, AdaBoost - Spam filter
 11. 
