@@ -16,4 +16,5 @@ projects from the udacity data science nano degree program
 10. Bagging, Random Forest, AdaBoost - Spam filter
 11. Train / Test split
 12. Classification scoring metrics - accuracy_score, precision_score, recall_score, f1_score
-13. Regression scoring metrics - 
+13. Regression scoring metrics - r2_score, mean_squared_error, mean_absolute_error
+14. 
