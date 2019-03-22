@@ -1,6 +1,7 @@
-# udacity_data_science
+# udacity_data_science_nanodegree_supervised_learning
 
-Data Science / Machine Learning 
+Data Science / Machine Learning / Supervised Learning
+
 projects from the udacity data science nano degree program
 
 01. Linear Regression from Sklearn
@@ -13,4 +14,6 @@ projects from the udacity data science nano degree program
 08. Spam filter with Naive Bayes
 09. Tuning the Support Vector Machine (SVM)
 10. Bagging, Random Forest, AdaBoost - Spam filter
-11. 
+11. Train / Test split
+12. Classification scoring metrics - accuracy_score, precision_score, recall_score, f1_score
+13. Regression scoring metrics - 
