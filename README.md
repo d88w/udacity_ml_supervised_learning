@@ -17,4 +17,6 @@ projects from the udacity data science nano degree program
 11. Train / Test split
 12. Classification scoring metrics - accuracy_score, precision_score, recall_score, f1_score
 13. Regression scoring metrics - r2_score, mean_squared_error, mean_absolute_error
-14. 
+14. Model selection using Learning Curves
+15. Model tuning / CV with Grid Search
+16. Diabetes case study - Exploring, Tuning, RandomSearchCV, FeatureImportance
