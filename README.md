@@ -4,7 +4,7 @@ Data Science / Machine Learning / Supervised Learning
 
 projects from the udacity data science nano degree program
 
-Project_Charity_ML - Chapter Capstone Project
+- Project_Charity_ML - Chapter Capstone Project
 
 01. Linear Regression from Sklearn
 02. Multi-variable Linear Regression
